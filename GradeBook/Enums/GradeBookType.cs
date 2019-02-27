@@ -1,7 +1,7 @@
 ﻿using System;
 namespace GradeBook.Enums
 {
-    public enum GradeBooktype
+    public enum GradeBookType
     {
         Standard,
         Ranked,
